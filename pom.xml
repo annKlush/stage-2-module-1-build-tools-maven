@@ -18,8 +18,8 @@
         <maven.jar.plugin.version>2.2</maven.jar.plugin.version>
         <maven.compiler.plugin.version>2.2</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>2.22.2</maven.surefire.plugin.version>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
+        <maven.compiler.source>1.5</maven.compiler.source>
+        <maven.compiler.target>1.5</maven.compiler.target>
     </properties>
     <dependencyManagement>
         <dependencies>
